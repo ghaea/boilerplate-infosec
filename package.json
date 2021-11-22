@@ -7,30 +7,13 @@
 		"start": "node myApp.js"
 	},
 	"dependencies": {
-		"express": "^4.14.0",
-		"helmet": "3.21.3"
+		"express": "^4.14.0"
 	},
 	"keywords": [
 		"node",
 		"hyperdev",
 		"express",
-		"freecodecamp",
-		"helmet"
+		"freecodecamp"
 	],
 	"license": "MIT"
-},
-{
-	"name": "HelmetJs",
-	"version": "3.21.3",
-	"description": "",
-	"main": "index.js",
-	"scripts": {
-	  "test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"author": "Pranjal Srivastava",
-	"license": "ISC",
-	"dependencies": {
-	  "express": "^4.14.0",
-	}
-  }
 }
